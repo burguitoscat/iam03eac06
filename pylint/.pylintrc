@@ -1,0 +1,7 @@
+[MASTER]
+disable=
+	W0311, # Bad indentation. Found 1 spaces, expected 4 (bad-indentation)	
+	C0303, # Trailing whitespace (trailing-whitespace)	
+	C0301, # Line too long (118/100) (line-too-long)
+	C0114, # Missing module docstring (missing-module-docstring)
+	W0622, # Redefining built-in 'dict' (redefined-builtin)
